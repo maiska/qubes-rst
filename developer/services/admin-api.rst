@@ -32,7 +32,7 @@ TBD
 Components
 ==========
 
-.. figure:: /attachment/doc/admin-api-architecture.svg
+.. figure:: /attachment/doc/admin-api-architecture.png
    :alt: Admin API Architecture
 
    Admin API Architecture

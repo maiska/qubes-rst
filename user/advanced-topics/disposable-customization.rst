@@ -161,7 +161,7 @@ To create one with a PCI device attached such as for ``sys-net`` or
 ``sys-usb``, use the additional commands as follows.
 
 **Note** You can use ``qvm-pci`` to
-:ref:`determine <user/how-to-guides/how-to-use-pci-devices:qvm-pci usage>` the
+:ref:`determine <user/how-to-guides/how-to-use-pci-devices:\`\`qvm-pci\`\` usage>` the
 ``<BDF>``. Also, you will often need to include the
 ``-o no-strict-reset=True``
 :ref:`option <user/how-to-guides/how-to-use-pci-devices:no-strict-reset>` with USB

@@ -14,7 +14,7 @@ Qubes OS releases are supported for **six months** after each subsequent
 major or minor release (see :doc:`Version Scheme </developer/releases/version-scheme>`).
 The current release and past major releases are always available on the
 :doc:`Downloads </user/downloading-installing-upgrading/downloads>` page, while all ISOs, including past minor
-releases, are available from our :ref:`download mirrors <user/downloading-installing-upgrading/downloads:mirrors>`.
+releases, are available from our `download mirrors <https://www.qubes-os.org/downloads/#mirrors>__.
 
 .. list-table:: 
    :widths: 13 13 13 13 

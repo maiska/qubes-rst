@@ -333,7 +333,7 @@ RSK for your Qubes release.
 - If you have access to an existing Qubes installation, the release
   keys are available in dom0 in
   ``/etc/pki/rpm-gpg/RPM-GPG-KEY-qubes-*``. These can be
-  :ref:`copied <user/how-to-guides/how-to-copy-from-dom0:copying from dom0>` into other
+  :ref:`copied <user/how-to-guides/how-to-copy-from-dom0:copying **from** dom0>` into other
   qubes for further use. In addition, every other qube contains the
   release key corresponding to that installation’s release in
   ``/etc/pki/rpm-gpg/RPM-GPG-KEY-qubes-*``. If you wish to use one of

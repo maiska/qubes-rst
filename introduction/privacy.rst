@@ -66,7 +66,7 @@ Mirrors
 
 
 There are also other third-party mirrors hosted by volunteers. These are
-used both for :ref:`ISO downloads <user/downloading-installing-upgrading/downloads:mirrors>` and
+used both for `ISO downloads <https://www.qubes-os.org/downloads/#mirrors>__ and
 `updates <#update-servers-and-repositories>`__. We have no control over
 what data these mirrors collect or with whom they share it. Please see
 the privacy policy of each respective mirror operator.

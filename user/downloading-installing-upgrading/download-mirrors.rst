@@ -11,7 +11,7 @@ List of Download Mirrors
 
 
 The full list of known Qubes download mirrors is available
-:ref:`here <user/downloading-installing-upgrading/downloads:mirrors>`.
+`here <https://www.qubes-os.org/downloads/#mirrors>__.
 
 Instructions for Mirror Operators
 ---------------------------------

@@ -238,5 +238,5 @@ particular combination. Consequently (and as with any new feature),
 users will inevitably encounter bugs. We ask for your patience and
 understanding in this regard. As always, please :doc:`report any bugs you encounter </introduction/issue-tracking>`.
 
-.. |Qubes U2F Proxy diagram| image:: /attachment/doc/u2f.svg
-   :target: /attachment/doc/u2f.svg
+.. |Qubes U2F Proxy diagram| image:: /attachment/doc/u2f.png
+   :target: /attachment/doc/u2f.png

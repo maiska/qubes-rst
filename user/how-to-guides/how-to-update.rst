@@ -81,9 +81,9 @@ Advanced users may wish to perform updates via the command-line
 interface. The recommended way to do this is by applying the following
 two Salt states. **Applying these two Salt states is the same as updating via the Qubes Update tool.**
 
-- :ref:`update.qubes-dom0 <user/advanced-topics/salt:update.qubes-dom0>`
+- :ref:`update.qubes-dom0 <user/advanced-topics/salt:\`\`update.qubes-dom0\`\`>`
 
-- :ref:`update.qubes-vm <user/advanced-topics/salt:update.qubes-vm>`
+- :ref:`update.qubes-vm <user/advanced-topics/salt:\`\`update.qubes-vm\`\`>`
 
 
 

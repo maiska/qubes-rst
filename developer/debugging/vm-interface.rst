@@ -398,7 +398,7 @@ Other Qrexec services installed by default:
 Services called in GuiVM:
 
 - ``policy.Ask``, ``policy.Notify`` - confirmation prompt and
-  notifications for Qubes RPC calls, see :ref:`qrexec-policy implementation <developer/services/qrexec-internals:qrexec policy implementation>`
+  notifications for Qubes RPC calls, see :ref:`qrexec-policy implementation <developer/services/qrexec-internals:\`\`qrexec-policy\`\` implementation>`
   for a detailed description.
 
 

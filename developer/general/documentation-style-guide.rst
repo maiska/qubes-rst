@@ -34,7 +34,7 @@ Hyperlink syntax
 ^^^^^^^^^^^^^^^^
 
 
-Use non-reference-style links like ``[website](https://example.com/)``.
+Use non-reference-style links like `` `website <https://example.com/>`__``.
 Do *not* use reference-style links like ``[website][example]``,
 ``[website][]`` or ``[website]``. This facilitates the localization
 process.

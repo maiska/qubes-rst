@@ -128,10 +128,10 @@ Example
 
 This example is from ``qubes-manager`` (``qubesmanager/main.py``).
 
-.. figure:: //attachment/doc/update_table-20140424-170010.svg
-   :alt: “update_table-20140424-170010.svg”
+.. figure:: //attachment/doc/update_table-20140424-170010.png
+   :alt: “update_table-20140424-170010.png”
 
-   “update_table-20140424-170010.svg”
+   “update_table-20140424-170010.png”
 
 It is apparent that the problem is around ``get_disk_usage``, which
 calls something via ``subprocess.call``. It does this 15 times, probably

@@ -316,10 +316,10 @@ configuration in user home directory, which is not synchronized.
       
       Relevant links:
       
-      - [Low level GUI documentation](/doc/gui/)
-      - [qubes-gui-agent-linux](https://github.com/qubesos/qubes-gui-agent-linux)
-      - [qubes-gui-daemon](https://github.com/qubesos/qubes-gui-daemon)
-      - [Use Wayland instead of X11 to increase performance](https://github.com/qubesos/qubes-issues/issues/3366)
+      -  `Low level GUI documentation <https://www.qubes-os.org/doc/>`__
+      -  `qubes-gui-agent-linux <https://github.com/qubesos/qubes-gui-agent-linux>`__
+      -  `qubes-gui-daemon <https://github.com/qubesos/qubes-gui-daemon>`__
+      -  `Use Wayland instead of X11 to increase performance <https://github.com/qubesos/qubes-issues/issues/3366>`__
       
       **Knowledge prerequisite**:
       
@@ -328,7 +328,7 @@ configuration in user home directory, which is not synchronized.
       - C language
       - using shared memory (synchronization methods etc)
       
-      **Mentor**: [Marek Marczykowski-Górecki](/team/).
+      **Mentor**:  `Marek Marczykowski-Górecki <https://www.qubes-os.org/doc/>`__.
       
       -->
 
@@ -392,17 +392,17 @@ and installation image. More details:
       
       **Project**: Unikernel based firewallvm with Qubes firewall settings support
       
-      **Brief explanation**: [blog post](http://roscidus.com/blog/blog/2016/01/01/a-unikernel-firewall-for-qubesos/), [repo](https://github.com/talex5/qubes-mirage-firewall)
+      **Brief explanation**:  `blog post <http://roscidus.com/blog/blog/2016/01/01/a-unikernel-firewall-for-qubesos/>`__,  `repo <https://github.com/talex5/qubes-mirage-firewall>`__
       
       **Expected results**: A firewall implemented as a unikernel which supports all the networking-related functionality as the default sys-firewall VM, including configuration via Qubes Manager. Other duties currently assigned to sys-firewall such as the update proxy may need to be appropriately migrated first.
       
       **Knowledge prerequisite**:
       
-      - [OCaml](https://ocaml.org/) + [MirageOS](https://mirage.io/) or other unikernel framework,
+      -  `OCaml <https://ocaml.org/>`__ +  `MirageOS <https://mirage.io/>`__ or other unikernel framework,
       - Xen network stack,
       - Qubes networking model & firewall semantics.
       
-      **Mentor**: [Thomas Leonard](mailto:talex5@gmail.com), [Marek Marczykowski-Górecki](/team/)
+      **Mentor**: `Thomas Leonard`_,  `Marek Marczykowski-Górecki <https://www.qubes-os.org/doc/>`__
       -->
 
 LogVM(s)
@@ -740,10 +740,10 @@ Some related discussion:
         - Implement some missing functionality in KVM then implement KVM support in the Qubes Hypervisor Abstraction Layer and build process. Improving the HAL will also be beneficial for simplifying the process of porting to further architectures and hypervisors.
       
       - Port Xen to ppc64 then work on Qubes specifics
-        - For more information on porting Xen see [this thread](https://markmail.org/message/vuk7atnyqfq52epp).
+        - For more information on porting Xen see  `this thread <https://markmail.org/message/vuk7atnyqfq52epp>`__.
       
       More information and further links can be found in the related issue:
-      [#4318](https://github.com/QubesOS/qubes-issues/issues/4318).
+       `#4318 <https://github.com/QubesOS/qubes-issues/issues/4318>`__.
       
       **Expected results**:
       
@@ -758,7 +758,7 @@ Some related discussion:
       - KVM or XEN internals
       - General ppc64 architecture knowledge.
       
-      **Mentor**: [Marek Marczykowski-Górecki](/team/)
+      **Mentor**:  `Marek Marczykowski-Górecki <https://www.qubes-os.org/doc/>`__
       
       -->
 
@@ -986,3 +986,6 @@ details:
 
 
 We adapted some of the language here about GSoC from the `KDE GSoC page <https://community.kde.org/GSoC>`__.
+
+
+.. _Thomas Leonard: talex5@gmail.com

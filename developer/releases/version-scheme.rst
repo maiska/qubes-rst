@@ -209,5 +209,5 @@ an issue, you can either check in the Qubes Manager menu under
 the latter you can use a command like ``cat /etc/qubes-release`` in a
 dom0 terminal.
 
-.. |Release cycle| image:: /attachment/doc/release-cycle.svg
-   :target: /attachment/doc/release-cycle.svg
+.. |Release cycle| image:: /attachment/doc/release-cycle.png
+   :target: /attachment/doc/release-cycle.png

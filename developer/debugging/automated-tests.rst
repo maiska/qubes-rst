@@ -337,7 +337,7 @@ Looking for patterns in tests
 
 
 In order to better visualize patterns in tests the
-```openqa_investigator`` <https://github.com/QubesOS/openqa-tests-qubesos/blob/master/utils/openqa_investigator.py>`__
+`openqa_investigator <https://github.com/QubesOS/openqa-tests-qubesos/blob/master/utils/openqa_investigator.py>`__
 script can be used. It feeds off of the openQA test data to make graph
 plots. Here is an example:
 

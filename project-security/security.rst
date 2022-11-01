@@ -20,7 +20,7 @@ The following is a list of important project security pages:
 
 - `PGP keys <https://keys.qubes-os.org/keys/>`__
 
-- :ref:`Security FAQ <introduction/faq:general  security>`
+- :ref:`Security FAQ <introduction/faq:general \& security>`
 
 
 
