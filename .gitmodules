@@ -1,3 +1,6 @@
 [submodule "attachment"]
 	url = https://github.com/maiska/qubes-attachment.rtd.git
 	path = attachment
+[submodule "_translated"]
+	path = _translated
+	url = https://github.com/maiska/qubes-rst-translation.git
